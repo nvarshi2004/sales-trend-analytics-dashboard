@@ -142,7 +142,7 @@ sales-trend-analytics/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/sales-trend-analytics.git
+git clone https://github.com/nvarshi2004/sales-trend-analytics-dashboard.git
 cd sales-trend-analytics
 ```
 
