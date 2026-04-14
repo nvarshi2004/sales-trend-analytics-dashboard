@@ -35,7 +35,7 @@ sales-trend-analytics/
 │   └── sales_data.csv
 │── notebooks/
 │   └── sales_analysis.ipynb
-│── images/
+│── outputs/
 │   ├── monthly_revenue_trend.png
 │   ├── profit_vs_sales.png
 │   ├── regional_revenue.png
@@ -108,23 +108,23 @@ sales-trend-analytics/
 
 ### Monthly Revenue Trend
 
-![Monthly Revenue](images/monthly_revenue_trend.png)
+![Monthly Revenue](outputs/monthly_revenue_trend.png)
 
 ### Profit vs Sales by Category
 
-![Profit vs Sales](images/profit_vs_sales.png)
+![Profit vs Sales](outputs/profit_vs_sales.png)
 
 ### Revenue by Region
 
-![Regional Revenue](images/regional_revenue.png)
+![Regional Revenue](outputs/regional_revenue.png)
 
 ### Top Sub-Categories
 
-![Top Categories](images/top_subcategories.png)
+![Top Categories](outputs/top_subcategories.png)
 
 ### Year-over-Year Growth
 
-![YoY Growth](images/yoy_growth.png)
+![YoY Growth](outputs/yoy_growth.png)
 
 ---
 
